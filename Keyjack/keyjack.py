@@ -64,7 +64,7 @@ email_address = "Enter Email ID"
 password = "Enter Your Email account's Password"
 
 # Send to email address
-toaddr = "Enter the email id in which you want to recive email" # Use a temporary mail service address, mailinator and temp mail are good services
+toaddr = "Enter the email id in which you want to receive email" # Use a temporary mail service address, mailinator and temp mail are good services
 
 # Key to Encrypt
 key = "sbC9IsydZX1wJB0E2ZIXQhZIEIggXV3mkgqdxyaTfe4=" # generate encryption key and enter into here
