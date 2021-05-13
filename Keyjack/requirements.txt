@@ -1,7 +1,0 @@
-socket
-win32clipboard
-smtplib
-pynput
-cryptography
-getpass
-requests
