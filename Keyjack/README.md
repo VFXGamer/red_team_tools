@@ -1,5 +1,5 @@
 # KeyJack is a python keylogger.
-## _This tool is just for edutional purposes I am not responsible for any loses_
+## _This tool is just for educational purposes I am not responsible for any loses_
 ### Prerequisites:
 1. Python installed
 2. An IDE to run the files.
