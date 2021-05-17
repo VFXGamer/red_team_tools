@@ -29,6 +29,6 @@ key = "sbC9IsydZX1wJB0E2ZIXQhZIEIggXV3mkgqdxyaTfe4="
 
 <b>Don't miss use your knowledge.</b> </br>
 
-> With great power comes great responsiblities
+> With great power comes great responsibities 
 
 <b>Thank You</b>
