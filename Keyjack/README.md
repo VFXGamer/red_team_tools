@@ -7,7 +7,7 @@
 
 ### Setup Steps:
 1. Run `python3 -m pip install -r requirements.txt` to install all the required modules.
-2. Add your email id and password from which you will like to reecieve the logged file.
+2. Add your email id and password from which you will like to receive the logged file.
 ```python
 email_address = "Enter Email ID"
 password = "Enter Your Email account's Password"
@@ -23,8 +23,8 @@ key = "sbC9IsydZX1wJB0E2ZIXQhZIEIggXV3mkgqdxyaTfe4="
 # generate encryption key and enter into here
 ```
 5. As all the things are set its time to run it. Run `python3 keyjack.py`.
-6. You will recieve the file on your email that you entered in step 3. (All the logged files files will be deleted from your pc once the program ends.)
-7. Now ypu will have to decrypt all the text inside the *e_keyjack_final_.txt* by running `python3 keyjack_decrypt.py`
+6. You will receive the file on your email that you entered in step 3. (All the logged files files will be deleted from your pc once the program ends.)
+7. Now you will have to decrypt all the text inside the *e_keyjack_final_.txt* by running `python3 keyjack_decrypt.py`
 (Note:- Both *keyjack_decrypt.py* and *e_keyjack_final_.txt* should be in the same folder.) </br>
 
 <b>Don't miss use your knowledge.</b> </br>
