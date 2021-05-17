@@ -27,7 +27,7 @@ key = "sbC9IsydZX1wJB0E2ZIXQhZIEIggXV3mkgqdxyaTfe4="
 7. Now you will have to decrypt all the text inside the *e_keyjack_final_.txt* by running `python3 keyjack_decrypt.py`
 (Note:- Both *keyjack_decrypt.py* and *e_keyjack_final_.txt* should be in the same folder.) </br>
 
-<b>Don't miss use your knowledge.</b> </br>
+<b>Don't misuse your knowledge.</b> </br>
 
 > With great power comes great responsibities 
 
